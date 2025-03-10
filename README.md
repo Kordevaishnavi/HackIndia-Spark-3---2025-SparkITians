@@ -19,6 +19,7 @@ AI-Powered Researcher: Transform your research process with AI-driven paper disc
 - Achieved 98% Lighthouse accessibility score
 
   ![image alt](https://github.com/Kordevaishnavi/HackIndia-Spark-3---2025-SparkITians/blob/58d5108ec97aab614d5d0ffcd3ebc3cc7d6b9130/Screenshot%202025-03-10%20171549.png)
+  ![image alt](https://github.com/Kordevaishnavi/HackIndia-Spark-3---2025-SparkITians/blob/315adf037f584cfe3633d2223ddf72ead1d05915/Screenshot%202025-03-10%20171635.png)
 
 📜 Goa College of Engineering | 👥 Contributors: SparkITians
 
